@@ -10,7 +10,7 @@ using Lumina.Text.ReadOnly;
 namespace KamiToolKit.Internal.Nodes;
 
 /// <summary>
-/// Node for use with <see cref="CollapsingHeaderNode"/> and <see cref="TreeListNode{T,TU}"/>, to represent a clickable header node.
+/// Node for use with <see cref="CollapsingHeaderNode"/>, to represent a clickable header node.
 /// </summary>
 internal class ToggleableHeaderNode : SimpleComponentNode {
 
