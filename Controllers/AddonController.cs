@@ -5,7 +5,6 @@ using Dalamud.Utility;
 using FFXIVClientStructs.FFXIV.Component.GUI;
 using KamiToolKit.Interfaces;
 using KamiToolKit.Internal.Classes;
-using KamiToolKit.UiOverlay;
 
 namespace KamiToolKit.Controllers;
 

@@ -1,6 +1,5 @@
 ﻿using System;
 using System.ComponentModel;
-using KamiToolKit.UiOverlay;
 
 namespace KamiToolKit.Enums;
 
